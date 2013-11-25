@@ -1,1 +1,4 @@
+.ruby-version
+.rbenv-gemsets
+.gems
 _site/
