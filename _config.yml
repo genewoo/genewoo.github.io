@@ -1,0 +1,14 @@
+name: Gene's Public Slides
+markdown: redcarpet
+pygments: true
+
+timezone: Asia/Shanghai
+keep_files:  ['.git']
+site: http://genewoo.github.io
+url: http://genewoo.github.io
+description: 'Web site of Gene Woo'
+exclude: ["vendor"]
+
+save: true
+lsi: false
+pygments: true
